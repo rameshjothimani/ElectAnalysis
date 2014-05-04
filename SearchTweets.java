@@ -18,7 +18,7 @@ import twitter4j.conf.ConfigurationBuilder;
 
 public class SearchTweets {
  
-    /*Add Proper auth keys here*/
+        /*Add Proper auth keys here*/
 	private static final String CONSUMER_KEY = "*****************";
 	private static final String CONSUMER_SECRET = "***********************************************";
 	private static final String ACCESS_KEY = "************************************";
