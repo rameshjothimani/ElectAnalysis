@@ -18,10 +18,11 @@ import twitter4j.conf.ConfigurationBuilder;
 
 public class SearchTweets {
  
-    private static final String CONSUMER_KEY = "ppZcFjFOKmMo16dxazgKu9bLH";
-	private static final String CONSUMER_SECRET = "DxzaIDaIOYEUGc9hymyqQvqZKaX2QPeH2Arp9TY4cVd1YJCeTN";
-	private static final String ACCESS_KEY = "80581835-DVDri11kk38XLWCDwFFx1XIjJ8hgjzUoOJIZ7Jefx";
-	private static final String ACCESS_SECRET = "RCPoxugrLIMCqDeN73qvChENcOieIlAblnQWaIckF8B7C";
+    /*Add Proper auth keys here*/
+	private static final String CONSUMER_KEY = "*****************";
+	private static final String CONSUMER_SECRET = "***********************************************";
+	private static final String ACCESS_KEY = "************************************";
+	private static final String ACCESS_SECRET = "**********************";
     
 	
 	
